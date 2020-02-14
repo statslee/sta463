@@ -1,17 +1,20 @@
-name: "sta463"
+name: "STA463 Spring 2020"
 output_dir: ../docs
 navbar:
-  title: "sta463"
+  title: "STA463 Spring 2020"
   left:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
   - text: License
     href: license.html
+  right:
+  - text: source
+    href: https://github.com/statslee/sta463
 output:
   workflowr::wflow_html:
     toc: yes
     toc_float: yes
-    theme: cosmo
+    theme: readable
     highlight: textmate
+    code_folding: none
+
