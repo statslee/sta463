@@ -1,5 +1,5 @@
-# sta463
+# STA463 Spring 2020
 
-A [workflowr][] project.
+This is my first workflowr website.
 
-[workflowr]: https://github.com/jdblischak/workflowr
+https://statslee.github.io/sta463/
